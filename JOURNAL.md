@@ -1,3 +1,5 @@
+Time Spent: 60 hours
+
 ### 5/14
 I have had this idea for a while, but never got around to do it. Now is the perfect time! My plan is to make a basic cyberdeck with the Latte Panda Mu. I did a lot of research about how I will actually accomplish this. I found https://cyberdeck.cafe/build, and will follow some of that advice. I'll begin with looking at the full carrier board made by Latte Panda and try to understand how it works. Then I'll build a custom carrier board with the items of my choice. 
 
@@ -37,3 +39,10 @@ XXXXX
 
 I also made the schematic for the bottom keyboard / trackpad combo. Having enough space will be next to impossible, so I will have to make it wider most likely.
 XXXXX
+
+^^^ Notice the X's? I was supposed to put screenshots there but I accidentally deleted them all 😢
+
+### 6/29
+Today, I wrapped up the project. omg its been soooooooooooooooooooo long. I've put in so much effort, so its nice to see it paid off. I was working on this project AFK at this national speech and debate tournament, so I didn't journal those days. Here is an interesting view of the product:
+![image](https://github.com/user-attachments/assets/f6e088b9-3a73-42fb-8f9c-a02af9a43c91)
+
