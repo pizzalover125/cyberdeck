@@ -2,6 +2,7 @@
 a custom, modular cyberdeck.
 
 ## full build
+![image](https://github.com/user-attachments/assets/aa61105c-f8df-49ea-834a-e42e797b967f)
 ![image](https://github.com/user-attachments/assets/1d8525b6-a4f4-48f5-8b3a-0216382a76f7)
 ![image](https://github.com/user-attachments/assets/f4e4fc6f-e804-46bc-810b-e4004be145e9)
 ![image](https://github.com/user-attachments/assets/981972ff-1a92-46f4-82df-5d1441e083f8)
