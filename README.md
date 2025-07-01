@@ -1,5 +1,5 @@
 # cyberdeck
-a custom, modular cyberdeck.
+a custom, modular cyberdeck. check it out: https://cad.onshape.com/documents/5ad337dcd396b7c47652caf6/w/91ef10978fc6bf32b189ea9f/e/f67d23fb60884029d09c8012?renderMode=0&uiState=68640f9a320b863260d394fd
 
 ## full build
 ![image](https://github.com/user-attachments/assets/aa61105c-f8df-49ea-834a-e42e797b967f)
