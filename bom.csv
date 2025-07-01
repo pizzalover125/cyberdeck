@@ -1,19 +1,19 @@
 Item,Quantity,Source,Cost (USD),Link
-Speakers,2,Mouser,https://www.mouser.com/ProductDetail/490-CLS0281MAE-L152
-RPi Zero 2 W,1,Mouser,https://www.mouser.com/ProductDetail/358-SC1146
-Push Buttons,20,Mouser,https://www.mouser.com/ProductDetail/485-4183
-Push Button Caps,10,Mouser,https://www.mouser.com/ProductDetail/633-AT422B
-USB-A Breakout,5,Mouser,https://www.mouser.com/ProductDetail/392-333132
-USB Hub Breakout,1,Mouser,https://www.mouser.com/ProductDetail/485-5997
-Joysticks,2,Mouser,https://www.mouser.com/ProductDetail/474-COM-09032
-I2S Audio Amp HAT,1,Mouser,https://www.mouser.com/ProductDetail/485-3346
-MicroUSB to USB-C,1,Mouser,https://www.mouser.com/ProductDetail/734-MB-C-1M-BK
-MiniHDMI to MiniHDMI,1,Mouser,https://www.mouser.com/ProductDetail/734-MB-C-1M-BK
-USBA to MicroUSB,1,Mouser,https://www.mouser.com/ProductDetail/46-USB2MICROUSB3FC
-FPC Extension,1,Mouser,https://www.mouser.com/ProductDetail/485-2098,118.06
-Display,1,BuyDisplay.com,
-Display Driver,1,BuyDisplay.com,40.18
-Right Hackcon,5,JLCPCB,11.50
-Left Hackcon,5,JLCPCB,
-Misc Nuts,,Home Depot,10.00
-Total,,,179.74
+Speakers,2,Mouser,,https://www.mouser.com/ProductDetail/490-CLS0281MAE-L152
+RPi Zero 2 W,1,Mouser,,https://www.mouser.com/ProductDetail/358-SC1146
+Push Buttons,20,Mouser,,https://www.mouser.com/ProductDetail/485-4183
+Push Button Caps,10,Mouser,,https://www.mouser.com/ProductDetail/633-AT422B
+USB-A Breakout,5,Mouser,,https://www.mouser.com/ProductDetail/392-333132
+USB Hub Breakout,1,Mouser,,https://www.mouser.com/ProductDetail/485-5997
+Joysticks,2,Mouser,,https://www.mouser.com/ProductDetail/474-COM-09032
+I2S Audio Amp HAT,1,Mouser,,https://www.mouser.com/ProductDetail/485-3346
+MicroUSB to USB-C,1,Mouser,,https://www.mouser.com/ProductDetail/734-MB-C-1M-BK
+MiniHDMI to MiniHDMI,1,Mouser,,https://www.mouser.com/ProductDetail/734-MB-C-1M-BK
+USBA to MicroUSB,1,Mouser,,https://www.mouser.com/ProductDetail/46-USB2MICROUSB3FC
+FPC Extension,1,Mouser,118.06,https://www.mouser.com/ProductDetail/485-2098
+Display,1,BuyDisplay.com,,
+Display Driver,1,BuyDisplay.com,40.18,
+Right Hackcon,5,JLCPCB,11.50,
+Left Hackcon,5,JLCPCB,, 
+Misc Nuts,,Home Depot,10.00,
+Total,,,179.74,
