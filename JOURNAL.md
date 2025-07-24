@@ -62,3 +62,10 @@ Today, I wrapped up the project. omg its been soooooooooooooooooooo long. I've p
 ![image](https://github.com/user-attachments/assets/f6e088b9-3a73-42fb-8f9c-a02af9a43c91) <br>
 Time Spent: 2 hours
 
+### 7/24
+Today I want to lock in and finish this project. I began with the battery. I decided against a custom PCB for two reasons: <br>
+a) mistakes mean fire. fire bad
+b) PCBA expensive. Expensive bad. 
+
+So... I just decided to use a premade UPS and design a case around it. Its 4000mAH which is less than ideal, but my system is modular, so that isn't a problem! BTW, the UPS is here: https://www.amazon.com/gp/product/B01LAEX7J0?linkId=a909cc0ee4dd8060f43047f7aaacc4a7&language=en_US. Here is how the case looks! 
+<img width="718" height="548" alt="image" src="https://github.com/user-attachments/assets/80616f98-f2a7-4400-8fd8-da495f591aec" />
