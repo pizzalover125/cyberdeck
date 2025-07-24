@@ -58,7 +58,7 @@ Time Spent: 7 hours
 ^^^ Notice the X's? I was supposed to put screenshots there but I accidentally deleted them all 😢
 
 ### 6/29
-Today, I wrapped up the project. omg its been soooooooooooooooooooo long. I've put in so much effort, so its nice to see it paid off. I was working on this project AFK at this national speech and debate tournament, so I didn't journal those days. Here is an interesting view of the product:
-![image](https://github.com/user-attachments/assets/f6e088b9-3a73-42fb-8f9c-a02af9a43c91)
+Today, I wrapped up the project. omg its been soooooooooooooooooooo long. I've put in so much effort, so its nice to see it paid off. I was working on this project AFK at this national speech and debate tournament, so I didn't journal those days. Here is an interesting view of the product: <br>
+![image](https://github.com/user-attachments/assets/f6e088b9-3a73-42fb-8f9c-a02af9a43c91) <br>
 Time Spent: 2 hours
 
