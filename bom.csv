@@ -13,7 +13,7 @@ USBA to MicroUSB,1,Mouser,,https://www.mouser.com/ProductDetail/46-USB2MICROUSB3
 FPC Extension,1,Mouser,118.06,https://www.mouser.com/ProductDetail/485-2098
 Display,1,BuyDisplay.com,,https://www.buydisplay.com/ips-7-inch-1024x600-display-mini-hdmi-board-for-raspberry-pi
 Display Driver,1,BuyDisplay.com,40.18,https://www.buydisplay.com/ips-7-inch-1024x600-display-mini-hdmi-board-for-raspberry-pi
-Right Hackcon,5,JLCPCB,11.50,
-Left Hackcon,5,JLCPCB,, 
+Right Hackcon,5,JLCPCB,,
+Left Hackcon,5,JLCPCB,11.50, 
 Misc Nuts,,Home Depot,10.00,
 Total,,,179.74,
