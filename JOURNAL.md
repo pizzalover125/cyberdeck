@@ -4,7 +4,7 @@ author: "pizzalover125"
 description: "A console that is 100% modular."
 created_at: "2024-05-14"
 ---
-Time Spent: 45 + 5 misc (in car) = 50 hours
+Time Spent: 45 hours
 
 ### 5/14
 I have had this idea for a while, but never got around to do it. Now is the perfect time! My plan is to make a basic cyberdeck with the Latte Panda Mu. I did a lot of research about how I will actually accomplish this. I found https://cyberdeck.cafe/build, and will follow some of that advice. I'll begin with looking at the full carrier board made by Latte Panda and try to understand how it works. Then I'll build a custom carrier board with the items of my choice. 
