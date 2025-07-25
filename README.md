@@ -17,7 +17,7 @@ a custom, modular cyberdeck. check it out: https://cad.onshape.com/documents/5ad
 <img width="753" height="724" alt="image" src="https://github.com/user-attachments/assets/d5fdc4b1-b4cd-4e18-a824-126bcbd6bd0b" />
 
 ## keyboard
-<img width="802" height="462" alt="image" src="https://github.com/user-attachments/assets/2bd92103-85f2-4cd9-9aad-4691e4ba3446" />
+<img width="720" height="413" alt="image" src="https://github.com/user-attachments/assets/6a93397e-1108-47b5-8387-138da93e85db" />
 <img width="740" height="510" alt="image" src="https://github.com/user-attachments/assets/b42c58f2-4350-4f9f-9bc0-167cc72a746c" />
 <img width="965" height="747" alt="image" src="https://github.com/user-attachments/assets/fda1d159-0755-4b9c-83d3-33a4c03d131c" />
 
