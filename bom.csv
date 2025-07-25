@@ -18,7 +18,7 @@ Hackcon + Keyboard,,,,
 Keyboard PCB,5,JLCPCB,,
 Right Hackcon,5,JLCPCB,,
 Left Hackcon,5,JLCPCB,25.00, 
-RP2040-One,3,Waveshare,29.07
+RP2040-One,3,Waveshare,29.07,
 Choc V1 Low Profile Switches,55,Keebio,39.30
 Battery,,,,
 UPS + Battery,1,Amazon,28.36,https://www.amazon.com/Raspberry-Battery-Standard-10000mAh-Expansion/dp/B01LAEX7J0?sr=8-1
