@@ -4,7 +4,7 @@ author: "pizzalover125"
 description: "A console that is 100% modular."
 created_at: "2024-05-14"
 ---
-Time Spent: 45 hours
+Time Spent: 48 hours
 
 ### 5/14
 I have had this idea for a while, but never got around to do it. Now is the perfect time! My plan is to make a basic cyberdeck with the Latte Panda Mu. I did a lot of research about how I will actually accomplish this. I found https://cyberdeck.cafe/build, and will follow some of that advice. I'll begin with looking at the full carrier board made by Latte Panda and try to understand how it works. Then I'll build a custom carrier board with the items of my choice. 
@@ -69,3 +69,11 @@ b) PCBA expensive. Expensive bad.
 
 So... I just decided to use a premade UPS and design a case around it. Its 4000mAH which is less than ideal, but my system is modular, so that isn't a problem! BTW, the UPS is here: https://www.amazon.com/gp/product/B01LAEX7J0?linkId=a909cc0ee4dd8060f43047f7aaacc4a7&language=en_US. Here is how the case looks! 
 <img width="718" height="548" alt="image" src="https://github.com/user-attachments/assets/80616f98-f2a7-4400-8fd8-da495f591aec" />
+
+Time Spent: 30 minutes
+
+### 7/25
+Today, I finished the keyboard. I had to use EASYEDA, which is super difficult to use. The schematic was simple, as all my keyboards have practically the same schematic. The PCB placement was a bit tricky, but I also got that in roughly an hour or two. I'm using a custom minimalist layout with 15mm spacing. I have to use special keycaps for this. Finally, the case was also super simple. Here is the final build, after all of these months:
+<img width="776" height="411" alt="image" src="https://github.com/user-attachments/assets/9ad8786c-7d16-4878-9c1b-309fe2df7e00" />
+
+Time Spent: 2.5 hours
